@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="screenshots/phantom_recon_main.png" alt="Phantom Recon Suite Screenshot" width="850"/>
+  <img src="screenshots/dns.png.png" alt="Phantom Recon Suite Screenshot" width="850"/>
 </p>
 
 ---
@@ -89,16 +89,16 @@ sudo pacman -S tk
 <summary><strong>Click to expand screenshots</strong></summary>
 
 ### DNS Lookup
-![DNS Lookup](screenshots/dns_lookup.png)
+![DNS Lookup](screenshots/dns.png.png)
 
 ### Port Scanner
-![Port Scanner](screenshots/port_scan.png)
+![Port Scanner](screenshots/ports.png)
 
 ### SSL/TLS Analysis
-![SSL Analysis](screenshots/ssl_analysis.png)
+![SSL Analysis](screenshots/ssl.png)
 
 ### PDF Report Export
-![PDF Report](screenshots/pdf_report.png)
+![PDF Report](screenshots/report.png)
 
 </details>
 
