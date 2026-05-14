@@ -60,7 +60,7 @@ Most recon tools require installing dozens of packages or rely on external APIs 
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/phantom-recon-suite.git
+git clone https://github.com/Waqarahmd222/phantom-recon-suite.git
 cd phantom-recon-suite
 
 # Run it (no installation needed)
